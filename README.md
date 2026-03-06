@@ -60,39 +60,41 @@ const arab = {
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **GitHub Статистика**
+## 📊 GitHub Статистика
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Arab-hacking&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0066FF&icon_color=0066FF&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Arab-hacking&theme=github-dark-blue&hide_border=true&background=0d1117&ring=0066FF&fire=0066FF&currStreakLabel=0066FF" />
+
+<!-- Stats Card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Arab-hacking&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0066FF&icon_color=0066FF&text_color=ffffff" width="49%" />
+
+<!-- Streak Stats - используй streak-stats.demolab.com -->
+<img src="https://streak-stats.demolab.com?user=Arab-hacking&theme=tokyonight&hide_border=true&background=0D1117&ring=0066FF&fire=0066FF&currStreakLabel=0066FF" width="49%" />
 
 </div>
 
 <div align="center">
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arab-hacking&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0066FF&text_color=c9d1d9" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arab-hacking&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0066FF&text_color=ffffff" width="40%" />
+
 </div>
 
-## 🏆 **Достижения**
+## 🏆 Достижения
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Arab-hacking&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=Arab-hacking&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
 </div>
 
-## 📊 **График активности**
+## 📈 Активность
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arab-hacking&bg_color=0d1117&color=0066FF&line=0066FF&point=ffffff&area=true&area_color=0066ff&hide_border=true&custom_title=Мой%20график%20контрибуций" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arab-hacking&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=0066FF&line=0066FF&point=ffffff&area=true&area_color=0066ff" />
 </div>
 
-## 🐍 **Змейка поедает мои коммиты**
+## 🐍 Змейка
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arab-hacking/Arab-hacking/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arab-hacking/Arab-hacking/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Arab-hacking/Arab-hacking/output/github-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/Arab-hacking/Arab-hacking/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </div>
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60"> **Связаться со мной**
