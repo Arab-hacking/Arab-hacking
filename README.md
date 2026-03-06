@@ -3,25 +3,18 @@
 ![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a1a2e,100:0066ff&height=300&section=header&text=ARAB&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=「%20Student%20%20%7C%20%20Developer%20%20%7C%20%20Modder%20」&descSize=20&descAlignY=55&stroke=0066ff&strokeWidth=2)
 
 </div>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=0066FF&center=true&vCenter=true&random=false&width=700&height=100&lines=Привет,+мир!+👋+Я+Arab;Создаю+будущее+через+код+💻" alt="Typing SVG" />
-
 </div>
-
 <div align="center">
-
 <a href="#"><img src="https://img.shields.io/badge/Age-16-0066ff?style=for-the-badge&labelColor=0d1117"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Focus-Web%20Development-0066ff?style=for-the-badge&labelColor=0d1117"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Living-Russia-0066ff?style=for-the-badge&labelColor=0d1117"/></a>
-
 </div>
-
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **Обо мне**
 const arab = {
     age: 16,
@@ -40,14 +33,11 @@ const arab = {
 };
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> **Технологии и инструменты**
-
 <div align="center">
-
 ### 💻 Языки программирования
 <p>
 <img src="https://skillicons.dev/icons?i=python,cs,js,html,css&theme=dark" />
 </p>
-
 ### 🛠️ Инструменты
 <p>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,unity,figma&theme=dark" />
