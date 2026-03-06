@@ -35,12 +35,12 @@
 ## 📊 GitHub Статистика
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ТВОЙ_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arab-hacking&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arab-hacking&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ТВОЙ_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arab-hacking&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -48,7 +48,7 @@
 ## 🏆 Трофеи
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ТВОЙ_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arab-hacking&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -56,7 +56,7 @@
 ## 📈 График активности
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ТВОЙ_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arab-hacking&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
@@ -64,7 +64,7 @@
 ## 🐍 Змейка коммитов
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ТВОЙ_USERNAME/ТВОЙ_USERNAME/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Arab-hacking/Arab-hacking/output/github-snake-dark.svg" />
 </div>
 
 ---
